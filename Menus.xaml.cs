@@ -25,7 +25,7 @@ namespace mulipagesTest
         public Page Page_3;
         public Menus()
         {
-            InitializeComponent();
+            InitializeComponent(); 
         }
 
         private void button_Click(object sender, RoutedEventArgs e)
